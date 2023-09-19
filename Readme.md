@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
-* Студент: [Алексей Умнов](https://up.htmlacademy.ru/htmlcss/38/user/2313427/).
-* Наставник: [Александр Зиновьев](https://up.htmlacademy.ru/htmlcss/38/user/198751/).
+* Студент: [Алексей Умнов](https://up.htmlacademy.ru/htmlcss/38/user/2313427).
+* Наставник: [Александр Зиновьев](https://up.htmlacademy.ru/htmlcss/38/user/198751).
 
 ---
 
